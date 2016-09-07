@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_0f3ceacb607b7be4a2602f7d194571d6cd0c2de3/classes.dex" />
+    </item>
+    <item
+        jar="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_742fc186593030a93657d8e159006f9b7011f50e/classes.dex" />
+    </item>
+
+</items>

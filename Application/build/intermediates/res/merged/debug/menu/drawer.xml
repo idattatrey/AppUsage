@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/totalTimeOnCall"
+            android:checked="false"
+            android:title="TotalTime-CALL" />
+        <item
+            android:id="@+id/totalTimeOnCabApps"
+            android:checked="false"
+            android:title="TotalTime-CAB" />
+        <item
+            android:id="@+id/totalTimeOnSocialApps"
+            android:checked="false"
+            android:title="TotalTime-SOCIAL" />
+        <item
+            android:id="@+id/totalTimeOnMobile"
+            android:checked="false"
+            android:title="TotalTime-PHONE" />
+    </group>
+</menu>

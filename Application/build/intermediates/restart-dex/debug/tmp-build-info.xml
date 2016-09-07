@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="7319460369165"
+    token="3989923558847625748" >
+
+    <task
+        name="javac"
+        duration="367" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="271" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_742fc186593030a93657d8e159006f9b7011f50e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_0f3ceacb607b7be4a2602f7d194571d6cd0c2de3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_91a243b94ad02069bdf81f7f097bcb6d5929f449/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_ae8b017df74bae40c78c403e61861deaa19fccd2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_1cc48bcd67ca76b9c5b5ecedcd15fcfb793361da/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_0a8ec029c27446f67e2e34be957b03626c6bcd10/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_7f1fda9a199a7b3d3e6018aa82c4228001e8d892/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_c127505973c5df036e31e3fdae4a92dd13306da6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_06af087405f020b02490a7036521266ae081cbdc/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_9d44dbf931f0f4213706003688d81543c33f409b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_eda185d991f4a31b977db561aed22b4579d3130d/classes.dex"
+        type="DEX" />
+
+</instant-run>
