@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 
 public class TotalTimeOnMobile extends Fragment {
-
+    public long cpu_total_work = 0;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.total_time_mobile, container, false);
@@ -20,7 +20,7 @@ public class TotalTimeOnMobile extends Fragment {
         String[] entries;
         int cpu_total;
         int cpu_work;
-        long cpu_total_work = 0;
+
         long[][] cpuUseVal = {{2147483647, 0}, {2147483647, 0}, {2147483647, 0},
                 {2147483647, 0}, {2147483647, 0}, {2147483647, 0}, {2147483647, 0}, {2147483647, 0},
                 {2147483647, 0}, {2147483647, 0}};
@@ -70,5 +70,13 @@ public class TotalTimeOnMobile extends Fragment {
         }
         textView.setText("Total Time On Mobile in Minutes: " + cpu_total_work / 36000);
         return v;
+    }
+
+    public Boolean checkValue(){
+        if(cpu_total_work!=0){
+            return Boolean.TRUE;
+        }else {
+            return Boolean.FALSE;
+        }
     }
 }

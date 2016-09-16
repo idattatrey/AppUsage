@@ -10,11 +10,15 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+import org.junit.Test;
+
 public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private NavigationView navigationView;
     private DrawerLayout drawerLayout;
     private android.support.v4.app.FragmentTransaction fragmentTransaction;
+
+    @Test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                         return true;
                     case R.id.totalTimeOnCabApps:
                         Toast.makeText(getApplicationContext(), "TotalTimeOnCab", Toast.LENGTH_SHORT).show();
-                        TotalTimeCabApps totalTimeCabApps =new TotalTimeCabApps();
+                        TotalTimeCabApps totalTimeCabApps = new TotalTimeCabApps();
                         fragmentTransaction = getSupportFragmentManager().beginTransaction();
                         fragmentTransaction.replace(R.id.frame, totalTimeCabApps);
                         fragmentTransaction.commit();
@@ -63,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                         return true;
                     case R.id.totalTimeOnMobile:
                         Toast.makeText(getApplicationContext(), "TotalTimeOnMobile", Toast.LENGTH_SHORT).show();
-                        TotalTimeOnMobile totalTimeOnMobile4= new TotalTimeOnMobile();
+                        TotalTimeOnMobile totalTimeOnMobile4 = new TotalTimeOnMobile();
                         fragmentTransaction = getSupportFragmentManager().beginTransaction();
                         fragmentTransaction.replace(R.id.frame, totalTimeOnMobile4);
                         fragmentTransaction.commit();

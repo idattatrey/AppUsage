@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\ElementOraTask\Application\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\ElementOraTask\Application\src\debug\jniLibs"/></dataSet></merger>

@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import org.junit.runner.RunWith;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,7 +22,6 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.ViewHolder> {
             CallInfo CallInfo = new CallInfo();
             CallInfo.setCInfo(info.get(i));
             mItems.add(CallInfo);
-
         }
     }
 

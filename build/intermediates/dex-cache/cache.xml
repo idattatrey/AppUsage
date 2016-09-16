@@ -2,18 +2,165 @@
 <items version="2" >
 
     <item
-        jar="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_4689c6d1efda8af127e130dcf76eaae1351885b4\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_639d9b12ac2f521cce1ed5d5ebd424b7073ea384\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_ae32e15c4ca2155f0c3abb5cc8a9e08afb228689\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_9b64b0005e62e0c1a6fe661158ad6380d747664b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programming\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_99d1fea76ba014e6bdd9d99ae0a7043c355f40bf\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_534091e1eea2098591deb0c806f83685d69d04f6\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_bef9ef9cbde2185ba9978ef7206639fe813e4084\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_0f3ceacb607b7be4a2602f7d194571d6cd0c2de3/classes.dex" />
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_65333a784384a00342ad5b494724f0eaa5d8ed8b\classes.dex" />
     </item>
     <item
-        jar="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_8ce8b463d76fa204b3693a8a8f13a546eb528c06\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_cbc8188297698c95e69d47ffb0f5bbc177698915\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
-        <dex dex="/home/dattatrey/TASK/android-AppUsageStatistics-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_742fc186593030a93657d8e159006f9b7011f50e/classes.dex" />
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_f008b65b3678eadad699e4509d4ba79c6f58da9b\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_8590ea7cf12fb9fbea224c97f8aeb3d0982122b6\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_8584970d6f763156a41eb1b214335fa51e8ca23e\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_570fa1ba6b8a2e86a71bd78f78855087cbe08702\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_35aa371ec7a832175a877e123c35a61a2ac2067b\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_1478e4141754af84d9420e44e771c2f24d262866\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="adb07a5677810eb9c28bb1bf7c85408b41906332">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_02800dc63129bac6cdbd789231f5c474603bc6cb\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_0ea368b85adcc854c25ca90ab9e3c1fe79f1ab6a\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3704051e07c87fc4d4cc667d71eb2b70fa18faef">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_848d17f07ab439e4e0a1dd15edf605a76504d01b\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a7255cf3efc2a9a65fd925b4057d32725d8c9cbe\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_45a396fb8abf14c1bbf81837cd86c8c5ad1800b6\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2c59655bf99de17271c339f9ef4ebe4129c90eaf\classes.dex" />
+    </item>
+    <item
+        jar="E:\ElementOraTask\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\ElementOraTask\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_60b0c6191f3dc68960ca1777b1016284dd215ac2\classes.dex" />
     </item>
 
 </items>
